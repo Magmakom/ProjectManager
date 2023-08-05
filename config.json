@@ -1,0 +1,10 @@
+{
+    "mongoose": {
+        "uri": "mongodb://127.0.0.1/task_manager_app"
+    },
+    "mongoose_remote": {
+        "uri": "mongodb://ds263660.mlab.com:63660/mgm_task_manager",
+        "user": "usr_api",
+        "pass": "e51b80055eef1d3fa8c63a4bb81fbdfb"
+    }
+}
